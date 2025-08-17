@@ -24,9 +24,10 @@
 ### 🦊🔥 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=babbingtonnjr&show_icons=true&theme=dark&title_color=FF6600&icon_color=FFA500&text_color=F8F8FF&bg_color=2C2C2C" alt="Babbingtonn Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babbingtonnjr&layout=compact&theme=dark&title_color=FF6600&text_color=F8F8FF&bg_color=2C2C2C" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=babbingtonnjr&show_icons=true&hide_border=true&bg_color=00000000&title_color=FF6600&icon_color=FFA500&text_color=F8F8FF" alt="Babbingtonn Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babbingtonnjr&layout=compact&hide_border=true&bg_color=00000000&title_color=FF6600&text_color=F8F8FF" alt="Top Languages" />
 </div>
+
 
 ---
 <!---
