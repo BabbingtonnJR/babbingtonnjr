@@ -43,8 +43,7 @@
 ### 📚 Currently Learning
 
 - ☕ Advanced Java and backend systems.  
-- ⚛️ React and modern frontend development.  
-- ☁️ Cloud computing basics (AWS, Docker).  
+- ⚛️ React and modern frontend development.    
 
 ---
 
