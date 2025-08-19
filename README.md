@@ -81,11 +81,11 @@
 ### 📫 Contact Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/babbingtonnjunior" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FF6600?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:SEU-EMAIL@gmail.com">
+  <a href="mailto:babbingtonnjr@gmail.com">
     <img src="https://img.shields.io/badge/Email-FFA500?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
